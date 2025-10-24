@@ -1,0 +1,13 @@
+/* In your global CSS file */
+.scrollbar-thin-custom::-webkit-scrollbar {
+  width: 4px; /* thinner width */
+}
+
+.scrollbar-thin-custom::-webkit-scrollbar-track {
+  background: #f3f3f3;
+}
+
+.scrollbar-thin-custom::-webkit-scrollbar-thumb {
+  background-color: #999;
+  border-radius: 2px;
+}

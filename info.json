@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "info": "Babandeep Singh",
+    "description": "Granduated from LPU Jalandhar, Experienced Software Engineer focusing on GenAI. Born and raised in Amritsar, Punjab. I currently live in Noida."
+  },
+  {
+    "id": 2,
+    "info": "Education",
+    "description": "B.Tech in ECE from LPU, Jalandhar"
+  },
+  {
+    "id": 3,
+    "info": "Profession",
+    "description": "Experienced Full Stack Lead Software Engineer"
+  },
+  
+  {
+    "id": 4,
+    "info": "Instagram",
+    "description": "@b_a_b_a_n_d_e_e_p where he posts reels"
+  },
+  {
+    "id": 6,
+    "info": "SitePulse",
+    "description": "Made a websiyte monitoring tool. Website -> https://sitespulse.babandeep.in"
+  }
+]
