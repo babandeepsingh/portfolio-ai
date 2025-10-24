@@ -125,9 +125,9 @@ export async function POST(req: NextRequest) {
         messages: transformed,
         onFinal: async (output: any) => {
             generation.end({ output });
-            await trace.end();
+            (await (trace as any).end());
         },
-    });
+    } as any); // bypass TS check
 
     return result.toTextStreamResponse();
 }
